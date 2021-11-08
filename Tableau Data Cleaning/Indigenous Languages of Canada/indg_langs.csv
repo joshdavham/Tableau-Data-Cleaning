@@ -1,0 +1,781 @@
+Country,Geographic name,Aboriginal languages,Mother tongue,Most spoken
+Canada,Newfoundland and Labrador,Blackfoot,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Atikamekw,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Montagnais (Innu),1535,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Moose Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Naskapi,605,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Northern East Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Plains Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Southern East Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Swampy Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Woods Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Cree,5,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Malecite,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Mi'kmaq,10,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Algonquin,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Ojibway,5,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Oji-Cree,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Ottawa (Odawa),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Babine (Wetsuwet'en),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Beaver,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Carrier,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Chilcotin,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Dene,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Dogrib (Tlicho),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Gwich'in,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Sarsi (Sarcee),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Sekani,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,North Slavey (Hare),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,South Slavey,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Slavey,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Kaska (Nahani),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Tahltan,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Northern Tutchone,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Southern Tutchone,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Haida,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Inuinnaqtun,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Inuktitut,490,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Inuvialuktun,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Cayuga,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Mohawk,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Oneida,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Kutenai,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Michif,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Comox,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Halkomelem,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Lillooet,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Okanagan,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Shuswap (Secwepemctsin),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Squamish,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Straits,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Thompson (Ntlakapamux),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Dakota,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Stoney,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Tlingit,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Gitxsan (Gitksan),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Nisga'a,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Tsimshian,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Haisla,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Heiltsuk,0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Kwakiutl (Kwak'wala),0,Montagnais (Innu)
+Canada,Newfoundland and Labrador,Nuu-chah-nulth (Nootka),0,Montagnais (Innu)
+Canada,Prince Edward Island,Blackfoot,0,Mi'kmaq
+Canada,Prince Edward Island,Atikamekw,0,Mi'kmaq
+Canada,Prince Edward Island,Montagnais (Innu),0,Mi'kmaq
+Canada,Prince Edward Island,Moose Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Naskapi,0,Mi'kmaq
+Canada,Prince Edward Island,Northern East Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Plains Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Southern East Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Swampy Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Woods Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Malecite,0,Mi'kmaq
+Canada,Prince Edward Island,Mi'kmaq,55,Mi'kmaq
+Canada,Prince Edward Island,Algonquin,0,Mi'kmaq
+Canada,Prince Edward Island,Ojibway,5,Mi'kmaq
+Canada,Prince Edward Island,Oji-Cree,0,Mi'kmaq
+Canada,Prince Edward Island,Ottawa (Odawa),0,Mi'kmaq
+Canada,Prince Edward Island,Babine (Wetsuwet'en),0,Mi'kmaq
+Canada,Prince Edward Island,Beaver,0,Mi'kmaq
+Canada,Prince Edward Island,Carrier,0,Mi'kmaq
+Canada,Prince Edward Island,Chilcotin,0,Mi'kmaq
+Canada,Prince Edward Island,Dene,0,Mi'kmaq
+Canada,Prince Edward Island,Dogrib (Tlicho),0,Mi'kmaq
+Canada,Prince Edward Island,Gwich'in,0,Mi'kmaq
+Canada,Prince Edward Island,Sarsi (Sarcee),0,Mi'kmaq
+Canada,Prince Edward Island,Sekani,0,Mi'kmaq
+Canada,Prince Edward Island,North Slavey (Hare),0,Mi'kmaq
+Canada,Prince Edward Island,South Slavey,0,Mi'kmaq
+Canada,Prince Edward Island,Slavey,0,Mi'kmaq
+Canada,Prince Edward Island,Kaska (Nahani),0,Mi'kmaq
+Canada,Prince Edward Island,Tahltan,0,Mi'kmaq
+Canada,Prince Edward Island,Northern Tutchone,0,Mi'kmaq
+Canada,Prince Edward Island,Southern Tutchone,0,Mi'kmaq
+Canada,Prince Edward Island,Haida,0,Mi'kmaq
+Canada,Prince Edward Island,Inuinnaqtun,0,Mi'kmaq
+Canada,Prince Edward Island,Inuktitut,5,Mi'kmaq
+Canada,Prince Edward Island,Inuvialuktun,0,Mi'kmaq
+Canada,Prince Edward Island,Cayuga,0,Mi'kmaq
+Canada,Prince Edward Island,Mohawk,0,Mi'kmaq
+Canada,Prince Edward Island,Oneida,0,Mi'kmaq
+Canada,Prince Edward Island,Kutenai,0,Mi'kmaq
+Canada,Prince Edward Island,Michif,0,Mi'kmaq
+Canada,Prince Edward Island,Comox,0,Mi'kmaq
+Canada,Prince Edward Island,Halkomelem,0,Mi'kmaq
+Canada,Prince Edward Island,Lillooet,0,Mi'kmaq
+Canada,Prince Edward Island,Okanagan,0,Mi'kmaq
+Canada,Prince Edward Island,Shuswap (Secwepemctsin),0,Mi'kmaq
+Canada,Prince Edward Island,Squamish,0,Mi'kmaq
+Canada,Prince Edward Island,Straits,0,Mi'kmaq
+Canada,Prince Edward Island,Thompson (Ntlakapamux),0,Mi'kmaq
+Canada,Prince Edward Island,Dakota,0,Mi'kmaq
+Canada,Prince Edward Island,Stoney,0,Mi'kmaq
+Canada,Prince Edward Island,Tlingit,0,Mi'kmaq
+Canada,Prince Edward Island,Gitxsan (Gitksan),0,Mi'kmaq
+Canada,Prince Edward Island,Nisga'a,0,Mi'kmaq
+Canada,Prince Edward Island,Tsimshian,0,Mi'kmaq
+Canada,Prince Edward Island,Haisla,0,Mi'kmaq
+Canada,Prince Edward Island,Heiltsuk,0,Mi'kmaq
+Canada,Prince Edward Island,Kwakiutl (Kwak'wala),0,Mi'kmaq
+Canada,Prince Edward Island,Nuu-chah-nulth (Nootka),0,Mi'kmaq
+Canada,Nova Scotia,Blackfoot,0,Mi'kmaq
+Canada,Nova Scotia,Atikamekw,0,Mi'kmaq
+Canada,Nova Scotia,Montagnais (Innu),0,Mi'kmaq
+Canada,Nova Scotia,Moose Cree,0,Mi'kmaq
+Canada,Nova Scotia,Naskapi,0,Mi'kmaq
+Canada,Nova Scotia,Northern East Cree,0,Mi'kmaq
+Canada,Nova Scotia,Plains Cree,5,Mi'kmaq
+Canada,Nova Scotia,Southern East Cree,0,Mi'kmaq
+Canada,Nova Scotia,Swampy Cree,5,Mi'kmaq
+Canada,Nova Scotia,Woods Cree,0,Mi'kmaq
+Canada,Nova Scotia,Cree,10,Mi'kmaq
+Canada,Nova Scotia,Malecite,10,Mi'kmaq
+Canada,Nova Scotia,Mi'kmaq,4420,Mi'kmaq
+Canada,Nova Scotia,Algonquin,0,Mi'kmaq
+Canada,Nova Scotia,Ojibway,15,Mi'kmaq
+Canada,Nova Scotia,Oji-Cree,0,Mi'kmaq
+Canada,Nova Scotia,Ottawa (Odawa),0,Mi'kmaq
+Canada,Nova Scotia,Babine (Wetsuwet'en),0,Mi'kmaq
+Canada,Nova Scotia,Beaver,0,Mi'kmaq
+Canada,Nova Scotia,Carrier,0,Mi'kmaq
+Canada,Nova Scotia,Chilcotin,0,Mi'kmaq
+Canada,Nova Scotia,Dene,5,Mi'kmaq
+Canada,Nova Scotia,Dogrib (Tlicho),0,Mi'kmaq
+Canada,Nova Scotia,Gwich'in,0,Mi'kmaq
+Canada,Nova Scotia,Sarsi (Sarcee),0,Mi'kmaq
+Canada,Nova Scotia,Sekani,0,Mi'kmaq
+Canada,Nova Scotia,North Slavey (Hare),0,Mi'kmaq
+Canada,Nova Scotia,South Slavey,0,Mi'kmaq
+Canada,Nova Scotia,Slavey,0,Mi'kmaq
+Canada,Nova Scotia,Kaska (Nahani),0,Mi'kmaq
+Canada,Nova Scotia,Tahltan,0,Mi'kmaq
+Canada,Nova Scotia,Northern Tutchone,0,Mi'kmaq
+Canada,Nova Scotia,Southern Tutchone,0,Mi'kmaq
+Canada,Nova Scotia,Haida,0,Mi'kmaq
+Canada,Nova Scotia,Inuinnaqtun,5,Mi'kmaq
+Canada,Nova Scotia,Inuktitut,65,Mi'kmaq
+Canada,Nova Scotia,Inuvialuktun,0,Mi'kmaq
+Canada,Nova Scotia,Cayuga,0,Mi'kmaq
+Canada,Nova Scotia,Mohawk,0,Mi'kmaq
+Canada,Nova Scotia,Oneida,0,Mi'kmaq
+Canada,Nova Scotia,Kutenai,0,Mi'kmaq
+Canada,Nova Scotia,Michif,5,Mi'kmaq
+Canada,Nova Scotia,Comox,0,Mi'kmaq
+Canada,Nova Scotia,Halkomelem,0,Mi'kmaq
+Canada,Nova Scotia,Lillooet,0,Mi'kmaq
+Canada,Nova Scotia,Okanagan,0,Mi'kmaq
+Canada,Nova Scotia,Shuswap (Secwepemctsin),0,Mi'kmaq
+Canada,Nova Scotia,Squamish,0,Mi'kmaq
+Canada,Nova Scotia,Straits,0,Mi'kmaq
+Canada,Nova Scotia,Thompson (Ntlakapamux),0,Mi'kmaq
+Canada,Nova Scotia,Dakota,0,Mi'kmaq
+Canada,Nova Scotia,Stoney,0,Mi'kmaq
+Canada,Nova Scotia,Tlingit,0,Mi'kmaq
+Canada,Nova Scotia,Gitxsan (Gitksan),0,Mi'kmaq
+Canada,Nova Scotia,Nisga'a,0,Mi'kmaq
+Canada,Nova Scotia,Tsimshian,0,Mi'kmaq
+Canada,Nova Scotia,Haisla,0,Mi'kmaq
+Canada,Nova Scotia,Heiltsuk,0,Mi'kmaq
+Canada,Nova Scotia,Kwakiutl (Kwak'wala),0,Mi'kmaq
+Canada,Nova Scotia,Nuu-chah-nulth (Nootka),0,Mi'kmaq
+Canada,New Brunswick,Blackfoot,0,Mi'kmaq
+Canada,New Brunswick,Atikamekw,0,Mi'kmaq
+Canada,New Brunswick,Montagnais (Innu),0,Mi'kmaq
+Canada,New Brunswick,Moose Cree,0,Mi'kmaq
+Canada,New Brunswick,Naskapi,0,Mi'kmaq
+Canada,New Brunswick,Northern East Cree,0,Mi'kmaq
+Canada,New Brunswick,Plains Cree,0,Mi'kmaq
+Canada,New Brunswick,Southern East Cree,0,Mi'kmaq
+Canada,New Brunswick,Swampy Cree,5,Mi'kmaq
+Canada,New Brunswick,Woods Cree,0,Mi'kmaq
+Canada,New Brunswick,Cree,5,Mi'kmaq
+Canada,New Brunswick,Malecite,330,Mi'kmaq
+Canada,New Brunswick,Mi'kmaq,1925,Mi'kmaq
+Canada,New Brunswick,Algonquin,0,Mi'kmaq
+Canada,New Brunswick,Ojibway,5,Mi'kmaq
+Canada,New Brunswick,Oji-Cree,0,Mi'kmaq
+Canada,New Brunswick,Ottawa (Odawa),0,Mi'kmaq
+Canada,New Brunswick,Babine (Wetsuwet'en),0,Mi'kmaq
+Canada,New Brunswick,Beaver,0,Mi'kmaq
+Canada,New Brunswick,Carrier,0,Mi'kmaq
+Canada,New Brunswick,Chilcotin,0,Mi'kmaq
+Canada,New Brunswick,Dene,0,Mi'kmaq
+Canada,New Brunswick,Dogrib (Tlicho),0,Mi'kmaq
+Canada,New Brunswick,Gwich'in,0,Mi'kmaq
+Canada,New Brunswick,Sarsi (Sarcee),0,Mi'kmaq
+Canada,New Brunswick,Sekani,0,Mi'kmaq
+Canada,New Brunswick,North Slavey (Hare),0,Mi'kmaq
+Canada,New Brunswick,South Slavey,5,Mi'kmaq
+Canada,New Brunswick,Slavey,0,Mi'kmaq
+Canada,New Brunswick,Kaska (Nahani),0,Mi'kmaq
+Canada,New Brunswick,Tahltan,0,Mi'kmaq
+Canada,New Brunswick,Northern Tutchone,0,Mi'kmaq
+Canada,New Brunswick,Southern Tutchone,0,Mi'kmaq
+Canada,New Brunswick,Haida,0,Mi'kmaq
+Canada,New Brunswick,Inuinnaqtun,0,Mi'kmaq
+Canada,New Brunswick,Inuktitut,20,Mi'kmaq
+Canada,New Brunswick,Inuvialuktun,0,Mi'kmaq
+Canada,New Brunswick,Cayuga,0,Mi'kmaq
+Canada,New Brunswick,Mohawk,0,Mi'kmaq
+Canada,New Brunswick,Oneida,0,Mi'kmaq
+Canada,New Brunswick,Kutenai,0,Mi'kmaq
+Canada,New Brunswick,Michif,5,Mi'kmaq
+Canada,New Brunswick,Comox,0,Mi'kmaq
+Canada,New Brunswick,Halkomelem,0,Mi'kmaq
+Canada,New Brunswick,Lillooet,0,Mi'kmaq
+Canada,New Brunswick,Okanagan,0,Mi'kmaq
+Canada,New Brunswick,Shuswap (Secwepemctsin),0,Mi'kmaq
+Canada,New Brunswick,Squamish,0,Mi'kmaq
+Canada,New Brunswick,Straits,0,Mi'kmaq
+Canada,New Brunswick,Thompson (Ntlakapamux),0,Mi'kmaq
+Canada,New Brunswick,Dakota,0,Mi'kmaq
+Canada,New Brunswick,Stoney,0,Mi'kmaq
+Canada,New Brunswick,Tlingit,0,Mi'kmaq
+Canada,New Brunswick,Gitxsan (Gitksan),0,Mi'kmaq
+Canada,New Brunswick,Nisga'a,0,Mi'kmaq
+Canada,New Brunswick,Tsimshian,0,Mi'kmaq
+Canada,New Brunswick,Haisla,0,Mi'kmaq
+Canada,New Brunswick,Heiltsuk,0,Mi'kmaq
+Canada,New Brunswick,Kwakiutl (Kwak'wala),0,Mi'kmaq
+Canada,New Brunswick,Nuu-chah-nulth (Nootka),0,Mi'kmaq
+Canada,Quebec,Blackfoot,5,Cree
+Canada,Quebec,Atikamekw,6295,Cree
+Canada,Quebec,Montagnais (Innu),9160,Cree
+Canada,Quebec,Moose Cree,5,Cree
+Canada,Quebec,Naskapi,610,Cree
+Canada,Quebec,Northern East Cree,150,Cree
+Canada,Quebec,Plains Cree,5,Cree
+Canada,Quebec,Southern East Cree,35,Cree
+Canada,Quebec,Swampy Cree,5,Cree
+Canada,Quebec,Woods Cree,10,Cree
+Canada,Quebec,Cree,15965,Cree
+Canada,Quebec,Malecite,0,Cree
+Canada,Quebec,Mi'kmaq,555,Cree
+Canada,Quebec,Algonquin,1505,Cree
+Canada,Quebec,Ojibway,35,Cree
+Canada,Quebec,Oji-Cree,5,Cree
+Canada,Quebec,Ottawa (Odawa),0,Cree
+Canada,Quebec,Babine (Wetsuwet'en),0,Cree
+Canada,Quebec,Beaver,0,Cree
+Canada,Quebec,Carrier,0,Cree
+Canada,Quebec,Chilcotin,5,Cree
+Canada,Quebec,Dene,0,Cree
+Canada,Quebec,Dogrib (Tlicho),0,Cree
+Canada,Quebec,Gwich'in,0,Cree
+Canada,Quebec,Sarsi (Sarcee),0,Cree
+Canada,Quebec,Sekani,0,Cree
+Canada,Quebec,North Slavey (Hare),0,Cree
+Canada,Quebec,South Slavey,0,Cree
+Canada,Quebec,Slavey,10,Cree
+Canada,Quebec,Kaska (Nahani),0,Cree
+Canada,Quebec,Tahltan,0,Cree
+Canada,Quebec,Northern Tutchone,0,Cree
+Canada,Quebec,Southern Tutchone,0,Cree
+Canada,Quebec,Haida,0,Cree
+Canada,Quebec,Inuinnaqtun,0,Cree
+Canada,Quebec,Inuktitut,12040,Cree
+Canada,Quebec,Inuvialuktun,0,Cree
+Canada,Quebec,Cayuga,5,Cree
+Canada,Quebec,Mohawk,425,Cree
+Canada,Quebec,Oneida,0,Cree
+Canada,Quebec,Kutenai,0,Cree
+Canada,Quebec,Michif,5,Cree
+Canada,Quebec,Comox,0,Cree
+Canada,Quebec,Halkomelem,0,Cree
+Canada,Quebec,Lillooet,0,Cree
+Canada,Quebec,Okanagan,0,Cree
+Canada,Quebec,Shuswap (Secwepemctsin),0,Cree
+Canada,Quebec,Squamish,0,Cree
+Canada,Quebec,Straits,0,Cree
+Canada,Quebec,Thompson (Ntlakapamux),0,Cree
+Canada,Quebec,Dakota,5,Cree
+Canada,Quebec,Stoney,0,Cree
+Canada,Quebec,Tlingit,0,Cree
+Canada,Quebec,Gitxsan (Gitksan),0,Cree
+Canada,Quebec,Nisga'a,0,Cree
+Canada,Quebec,Tsimshian,0,Cree
+Canada,Quebec,Haisla,0,Cree
+Canada,Quebec,Heiltsuk,0,Cree
+Canada,Quebec,Kwakiutl (Kwak'wala),0,Cree
+Canada,Quebec,Nuu-chah-nulth (Nootka),0,Cree
+Canada,Ontario,Blackfoot,15,Ojibway
+Canada,Ontario,Atikamekw,5,Ojibway
+Canada,Ontario,Montagnais (Innu),10,Ojibway
+Canada,Ontario,Moose Cree,105,Ojibway
+Canada,Ontario,Naskapi,15,Ojibway
+Canada,Ontario,Northern East Cree,70,Ojibway
+Canada,Ontario,Plains Cree,50,Ojibway
+Canada,Ontario,Southern East Cree,5,Ojibway
+Canada,Ontario,Swampy Cree,435,Ojibway
+Canada,Ontario,Woods Cree,20,Ojibway
+Canada,Ontario,Cree,4990,Ojibway
+Canada,Ontario,Malecite,5,Ojibway
+Canada,Ontario,Mi'kmaq,100,Ojibway
+Canada,Ontario,Algonquin,75,Ojibway
+Canada,Ontario,Ojibway,10790,Ojibway
+Canada,Ontario,Oji-Cree,6810,Ojibway
+Canada,Ontario,Ottawa (Odawa),165,Ojibway
+Canada,Ontario,Babine (Wetsuwet'en),5,Ojibway
+Canada,Ontario,Beaver,0,Ojibway
+Canada,Ontario,Carrier,5,Ojibway
+Canada,Ontario,Chilcotin,5,Ojibway
+Canada,Ontario,Dene,30,Ojibway
+Canada,Ontario,Dogrib (Tlicho),5,Ojibway
+Canada,Ontario,Gwich'in,5,Ojibway
+Canada,Ontario,Sarsi (Sarcee),5,Ojibway
+Canada,Ontario,Sekani,0,Ojibway
+Canada,Ontario,North Slavey (Hare),0,Ojibway
+Canada,Ontario,South Slavey,0,Ojibway
+Canada,Ontario,Slavey,5,Ojibway
+Canada,Ontario,Kaska (Nahani),0,Ojibway
+Canada,Ontario,Tahltan,0,Ojibway
+Canada,Ontario,Northern Tutchone,0,Ojibway
+Canada,Ontario,Southern Tutchone,0,Ojibway
+Canada,Ontario,Haida,5,Ojibway
+Canada,Ontario,Inuinnaqtun,0,Ojibway
+Canada,Ontario,Inuktitut,515,Ojibway
+Canada,Ontario,Inuvialuktun,0,Ojibway
+Canada,Ontario,Cayuga,50,Ojibway
+Canada,Ontario,Mohawk,825,Ojibway
+Canada,Ontario,Oneida,90,Ojibway
+Canada,Ontario,Kutenai,0,Ojibway
+Canada,Ontario,Michif,55,Ojibway
+Canada,Ontario,Comox,0,Ojibway
+Canada,Ontario,Halkomelem,0,Ojibway
+Canada,Ontario,Lillooet,0,Ojibway
+Canada,Ontario,Okanagan,0,Ojibway
+Canada,Ontario,Shuswap (Secwepemctsin),5,Ojibway
+Canada,Ontario,Squamish,0,Ojibway
+Canada,Ontario,Straits,0,Ojibway
+Canada,Ontario,Thompson (Ntlakapamux),0,Ojibway
+Canada,Ontario,Dakota,5,Ojibway
+Canada,Ontario,Stoney,0,Ojibway
+Canada,Ontario,Tlingit,0,Ojibway
+Canada,Ontario,Gitxsan (Gitksan),5,Ojibway
+Canada,Ontario,Nisga'a,0,Ojibway
+Canada,Ontario,Tsimshian,0,Ojibway
+Canada,Ontario,Haisla,0,Ojibway
+Canada,Ontario,Heiltsuk,0,Ojibway
+Canada,Ontario,Kwakiutl (Kwak'wala),5,Ojibway
+Canada,Ontario,Nuu-chah-nulth (Nootka),5,Ojibway
+Canada,Manitoba,Blackfoot,5,Cree
+Canada,Manitoba,Atikamekw,0,Cree
+Canada,Manitoba,Montagnais (Innu),0,Cree
+Canada,Manitoba,Moose Cree,0,Cree
+Canada,Manitoba,Naskapi,0,Cree
+Canada,Manitoba,Northern East Cree,35,Cree
+Canada,Manitoba,Plains Cree,95,Cree
+Canada,Manitoba,Southern East Cree,0,Cree
+Canada,Manitoba,Swampy Cree,960,Cree
+Canada,Manitoba,Woods Cree,80,Cree
+Canada,Manitoba,Cree,15175,Cree
+Canada,Manitoba,Malecite,0,Cree
+Canada,Manitoba,Mi'kmaq,10,Cree
+Canada,Manitoba,Algonquin,5,Cree
+Canada,Manitoba,Ojibway,7760,Cree
+Canada,Manitoba,Oji-Cree,6775,Cree
+Canada,Manitoba,Ottawa (Odawa),0,Cree
+Canada,Manitoba,Babine (Wetsuwet'en),0,Cree
+Canada,Manitoba,Beaver,0,Cree
+Canada,Manitoba,Carrier,5,Cree
+Canada,Manitoba,Chilcotin,0,Cree
+Canada,Manitoba,Dene,865,Cree
+Canada,Manitoba,Dogrib (Tlicho),0,Cree
+Canada,Manitoba,Gwich'in,0,Cree
+Canada,Manitoba,Sarsi (Sarcee),0,Cree
+Canada,Manitoba,Sekani,0,Cree
+Canada,Manitoba,North Slavey (Hare),0,Cree
+Canada,Manitoba,South Slavey,0,Cree
+Canada,Manitoba,Slavey,5,Cree
+Canada,Manitoba,Kaska (Nahani),0,Cree
+Canada,Manitoba,Tahltan,0,Cree
+Canada,Manitoba,Northern Tutchone,0,Cree
+Canada,Manitoba,Southern Tutchone,0,Cree
+Canada,Manitoba,Haida,0,Cree
+Canada,Manitoba,Inuinnaqtun,0,Cree
+Canada,Manitoba,Inuktitut,85,Cree
+Canada,Manitoba,Inuvialuktun,0,Cree
+Canada,Manitoba,Cayuga,0,Cree
+Canada,Manitoba,Mohawk,0,Cree
+Canada,Manitoba,Oneida,0,Cree
+Canada,Manitoba,Kutenai,0,Cree
+Canada,Manitoba,Michif,135,Cree
+Canada,Manitoba,Comox,0,Cree
+Canada,Manitoba,Halkomelem,0,Cree
+Canada,Manitoba,Lillooet,0,Cree
+Canada,Manitoba,Okanagan,0,Cree
+Canada,Manitoba,Shuswap (Secwepemctsin),0,Cree
+Canada,Manitoba,Squamish,0,Cree
+Canada,Manitoba,Straits,0,Cree
+Canada,Manitoba,Thompson (Ntlakapamux),0,Cree
+Canada,Manitoba,Dakota,685,Cree
+Canada,Manitoba,Stoney,0,Cree
+Canada,Manitoba,Tlingit,0,Cree
+Canada,Manitoba,Gitxsan (Gitksan),5,Cree
+Canada,Manitoba,Nisga'a,0,Cree
+Canada,Manitoba,Tsimshian,5,Cree
+Canada,Manitoba,Haisla,0,Cree
+Canada,Manitoba,Heiltsuk,0,Cree
+Canada,Manitoba,Kwakiutl (Kwak'wala),0,Cree
+Canada,Manitoba,Nuu-chah-nulth (Nootka),0,Cree
+Canada,Saskatchewan,Blackfoot,15,Cree
+Canada,Saskatchewan,Atikamekw,0,Cree
+Canada,Saskatchewan,Montagnais (Innu),0,Cree
+Canada,Saskatchewan,Moose Cree,5,Cree
+Canada,Saskatchewan,Naskapi,5,Cree
+Canada,Saskatchewan,Northern East Cree,35,Cree
+Canada,Saskatchewan,Plains Cree,2350,Cree
+Canada,Saskatchewan,Southern East Cree,5,Cree
+Canada,Saskatchewan,Swampy Cree,310,Cree
+Canada,Saskatchewan,Woods Cree,890,Cree
+Canada,Saskatchewan,Cree,17790,Cree
+Canada,Saskatchewan,Malecite,0,Cree
+Canada,Saskatchewan,Mi'kmaq,5,Cree
+Canada,Saskatchewan,Algonquin,0,Cree
+Canada,Saskatchewan,Ojibway,1050,Cree
+Canada,Saskatchewan,Oji-Cree,10,Cree
+Canada,Saskatchewan,Ottawa (Odawa),0,Cree
+Canada,Saskatchewan,Babine (Wetsuwet'en),0,Cree
+Canada,Saskatchewan,Beaver,0,Cree
+Canada,Saskatchewan,Carrier,0,Cree
+Canada,Saskatchewan,Chilcotin,0,Cree
+Canada,Saskatchewan,Dene,8240,Cree
+Canada,Saskatchewan,Dogrib (Tlicho),0,Cree
+Canada,Saskatchewan,Gwich'in,5,Cree
+Canada,Saskatchewan,Sarsi (Sarcee),0,Cree
+Canada,Saskatchewan,Sekani,0,Cree
+Canada,Saskatchewan,North Slavey (Hare),5,Cree
+Canada,Saskatchewan,South Slavey,0,Cree
+Canada,Saskatchewan,Slavey,0,Cree
+Canada,Saskatchewan,Kaska (Nahani),0,Cree
+Canada,Saskatchewan,Tahltan,0,Cree
+Canada,Saskatchewan,Northern Tutchone,0,Cree
+Canada,Saskatchewan,Southern Tutchone,0,Cree
+Canada,Saskatchewan,Haida,5,Cree
+Canada,Saskatchewan,Inuinnaqtun,5,Cree
+Canada,Saskatchewan,Inuktitut,25,Cree
+Canada,Saskatchewan,Inuvialuktun,0,Cree
+Canada,Saskatchewan,Cayuga,0,Cree
+Canada,Saskatchewan,Mohawk,0,Cree
+Canada,Saskatchewan,Oneida,0,Cree
+Canada,Saskatchewan,Kutenai,0,Cree
+Canada,Saskatchewan,Michif,330,Cree
+Canada,Saskatchewan,Comox,0,Cree
+Canada,Saskatchewan,Halkomelem,0,Cree
+Canada,Saskatchewan,Lillooet,0,Cree
+Canada,Saskatchewan,Okanagan,0,Cree
+Canada,Saskatchewan,Shuswap (Secwepemctsin),5,Cree
+Canada,Saskatchewan,Squamish,0,Cree
+Canada,Saskatchewan,Straits,0,Cree
+Canada,Saskatchewan,Thompson (Ntlakapamux),0,Cree
+Canada,Saskatchewan,Dakota,220,Cree
+Canada,Saskatchewan,Stoney,0,Cree
+Canada,Saskatchewan,Tlingit,0,Cree
+Canada,Saskatchewan,Gitxsan (Gitksan),0,Cree
+Canada,Saskatchewan,Nisga'a,0,Cree
+Canada,Saskatchewan,Tsimshian,5,Cree
+Canada,Saskatchewan,Haisla,0,Cree
+Canada,Saskatchewan,Heiltsuk,0,Cree
+Canada,Saskatchewan,Kwakiutl (Kwak'wala),0,Cree
+Canada,Saskatchewan,Nuu-chah-nulth (Nootka),0,Cree
+Canada,Alberta,Blackfoot,3385,Cree
+Canada,Alberta,Atikamekw,0,Cree
+Canada,Alberta,Montagnais (Innu),0,Cree
+Canada,Alberta,Moose Cree,10,Cree
+Canada,Alberta,Naskapi,0,Cree
+Canada,Alberta,Northern East Cree,50,Cree
+Canada,Alberta,Plains Cree,955,Cree
+Canada,Alberta,Southern East Cree,5,Cree
+Canada,Alberta,Swampy Cree,60,Cree
+Canada,Alberta,Woods Cree,970,Cree
+Canada,Alberta,Cree,15080,Cree
+Canada,Alberta,Malecite,0,Cree
+Canada,Alberta,Mi'kmaq,40,Cree
+Canada,Alberta,Algonquin,10,Cree
+Canada,Alberta,Ojibway,605,Cree
+Canada,Alberta,Oji-Cree,15,Cree
+Canada,Alberta,Ottawa (Odawa),0,Cree
+Canada,Alberta,Babine (Wetsuwet'en),5,Cree
+Canada,Alberta,Beaver,45,Cree
+Canada,Alberta,Carrier,20,Cree
+Canada,Alberta,Chilcotin,5,Cree
+Canada,Alberta,Dene,1570,Cree
+Canada,Alberta,Dogrib (Tlicho),45,Cree
+Canada,Alberta,Gwich'in,20,Cree
+Canada,Alberta,Sarsi (Sarcee),85,Cree
+Canada,Alberta,Sekani,5,Cree
+Canada,Alberta,North Slavey (Hare),15,Cree
+Canada,Alberta,South Slavey,160,Cree
+Canada,Alberta,Slavey,40,Cree
+Canada,Alberta,Kaska (Nahani),0,Cree
+Canada,Alberta,Tahltan,5,Cree
+Canada,Alberta,Northern Tutchone,5,Cree
+Canada,Alberta,Southern Tutchone,0,Cree
+Canada,Alberta,Haida,0,Cree
+Canada,Alberta,Inuinnaqtun,10,Cree
+Canada,Alberta,Inuktitut,70,Cree
+Canada,Alberta,Inuvialuktun,15,Cree
+Canada,Alberta,Cayuga,0,Cree
+Canada,Alberta,Mohawk,15,Cree
+Canada,Alberta,Oneida,0,Cree
+Canada,Alberta,Kutenai,5,Cree
+Canada,Alberta,Michif,115,Cree
+Canada,Alberta,Comox,0,Cree
+Canada,Alberta,Halkomelem,5,Cree
+Canada,Alberta,Lillooet,0,Cree
+Canada,Alberta,Okanagan,5,Cree
+Canada,Alberta,Shuswap (Secwepemctsin),5,Cree
+Canada,Alberta,Squamish,0,Cree
+Canada,Alberta,Straits,0,Cree
+Canada,Alberta,Thompson (Ntlakapamux),0,Cree
+Canada,Alberta,Dakota,375,Cree
+Canada,Alberta,Stoney,3200,Cree
+Canada,Alberta,Tlingit,5,Cree
+Canada,Alberta,Gitxsan (Gitksan),0,Cree
+Canada,Alberta,Nisga'a,10,Cree
+Canada,Alberta,Tsimshian,0,Cree
+Canada,Alberta,Haisla,0,Cree
+Canada,Alberta,Heiltsuk,5,Cree
+Canada,Alberta,Kwakiutl (Kwak'wala),5,Cree
+Canada,Alberta,Nuu-chah-nulth (Nootka),5,Cree
+Canada,British Columbia,Blackfoot,45,Carrier
+Canada,British Columbia,Atikamekw,0,Carrier
+Canada,British Columbia,Montagnais (Innu),5,Carrier
+Canada,British Columbia,Moose Cree,10,Carrier
+Canada,British Columbia,Naskapi,0,Carrier
+Canada,British Columbia,Northern East Cree,20,Carrier
+Canada,British Columbia,Plains Cree,190,Carrier
+Canada,British Columbia,Southern East Cree,0,Carrier
+Canada,British Columbia,Swampy Cree,35,Carrier
+Canada,British Columbia,Woods Cree,70,Carrier
+Canada,British Columbia,Cree,790,Carrier
+Canada,British Columbia,Malecite,5,Carrier
+Canada,British Columbia,Mi'kmaq,20,Carrier
+Canada,British Columbia,Algonquin,10,Carrier
+Canada,British Columbia,Ojibway,185,Carrier
+Canada,British Columbia,Oji-Cree,10,Carrier
+Canada,British Columbia,Ottawa (Odawa),0,Carrier
+Canada,British Columbia,Babine (Wetsuwet'en),130,Carrier
+Canada,British Columbia,Beaver,180,Carrier
+Canada,British Columbia,Carrier,1200,Carrier
+Canada,British Columbia,Chilcotin,780,Carrier
+Canada,British Columbia,Dene,130,Carrier
+Canada,British Columbia,Dogrib (Tlicho),10,Carrier
+Canada,British Columbia,Gwich'in,15,Carrier
+Canada,British Columbia,Sarsi (Sarcee),5,Carrier
+Canada,British Columbia,Sekani,95,Carrier
+Canada,British Columbia,North Slavey (Hare),5,Carrier
+Canada,British Columbia,South Slavey,20,Carrier
+Canada,British Columbia,Slavey,70,Carrier
+Canada,British Columbia,Kaska (Nahani),15,Carrier
+Canada,British Columbia,Tahltan,105,Carrier
+Canada,British Columbia,Northern Tutchone,5,Carrier
+Canada,British Columbia,Southern Tutchone,0,Carrier
+Canada,British Columbia,Haida,125,Carrier
+Canada,British Columbia,Inuinnaqtun,0,Carrier
+Canada,British Columbia,Inuktitut,60,Carrier
+Canada,British Columbia,Inuvialuktun,15,Carrier
+Canada,British Columbia,Cayuga,0,Carrier
+Canada,British Columbia,Mohawk,15,Carrier
+Canada,British Columbia,Oneida,0,Carrier
+Canada,British Columbia,Kutenai,115,Carrier
+Canada,British Columbia,Michif,55,Carrier
+Canada,British Columbia,Comox,85,Carrier
+Canada,British Columbia,Halkomelem,585,Carrier
+Canada,British Columbia,Lillooet,360,Carrier
+Canada,British Columbia,Okanagan,330,Carrier
+Canada,British Columbia,Shuswap (Secwepemctsin),625,Carrier
+Canada,British Columbia,Squamish,55,Carrier
+Canada,British Columbia,Straits,110,Carrier
+Canada,British Columbia,Thompson (Ntlakapamux),375,Carrier
+Canada,British Columbia,Dakota,30,Carrier
+Canada,British Columbia,Stoney,10,Carrier
+Canada,British Columbia,Tlingit,30,Carrier
+Canada,British Columbia,Gitxsan (Gitksan),1010,Carrier
+Canada,British Columbia,Nisga'a,450,Carrier
+Canada,British Columbia,Tsimshian,230,Carrier
+Canada,British Columbia,Haisla,145,Carrier
+Canada,British Columbia,Heiltsuk,120,Carrier
+Canada,British Columbia,Kwakiutl (Kwak'wala),425,Carrier
+Canada,British Columbia,Nuu-chah-nulth (Nootka),345,Carrier
+Canada,Yukon,Blackfoot,0,Northern Tutchone
+Canada,Yukon,Atikamekw,0,Northern Tutchone
+Canada,Yukon,Montagnais (Innu),0,Northern Tutchone
+Canada,Yukon,Moose Cree,0,Northern Tutchone
+Canada,Yukon,Naskapi,5,Northern Tutchone
+Canada,Yukon,Northern East Cree,0,Northern Tutchone
+Canada,Yukon,Plains Cree,0,Northern Tutchone
+Canada,Yukon,Southern East Cree,0,Northern Tutchone
+Canada,Yukon,Swampy Cree,0,Northern Tutchone
+Canada,Yukon,Woods Cree,0,Northern Tutchone
+Canada,Yukon,Cree,25,Northern Tutchone
+Canada,Yukon,Malecite,0,Northern Tutchone
+Canada,Yukon,Mi'kmaq,0,Northern Tutchone
+Canada,Yukon,Algonquin,0,Northern Tutchone
+Canada,Yukon,Ojibway,5,Northern Tutchone
+Canada,Yukon,Oji-Cree,0,Northern Tutchone
+Canada,Yukon,Ottawa (Odawa),0,Northern Tutchone
+Canada,Yukon,Babine (Wetsuwet'en),0,Northern Tutchone
+Canada,Yukon,Beaver,0,Northern Tutchone
+Canada,Yukon,Carrier,0,Northern Tutchone
+Canada,Yukon,Chilcotin,0,Northern Tutchone
+Canada,Yukon,Dene,10,Northern Tutchone
+Canada,Yukon,Dogrib (Tlicho),0,Northern Tutchone
+Canada,Yukon,Gwich'in,95,Northern Tutchone
+Canada,Yukon,Sarsi (Sarcee),0,Northern Tutchone
+Canada,Yukon,Sekani,0,Northern Tutchone
+Canada,Yukon,North Slavey (Hare),5,Northern Tutchone
+Canada,Yukon,South Slavey,0,Northern Tutchone
+Canada,Yukon,Slavey,5,Northern Tutchone
+Canada,Yukon,Kaska (Nahani),180,Northern Tutchone
+Canada,Yukon,Tahltan,5,Northern Tutchone
+Canada,Yukon,Northern Tutchone,280,Northern Tutchone
+Canada,Yukon,Southern Tutchone,80,Northern Tutchone
+Canada,Yukon,Haida,0,Northern Tutchone
+Canada,Yukon,Inuinnaqtun,0,Northern Tutchone
+Canada,Yukon,Inuktitut,5,Northern Tutchone
+Canada,Yukon,Inuvialuktun,10,Northern Tutchone
+Canada,Yukon,Cayuga,0,Northern Tutchone
+Canada,Yukon,Mohawk,0,Northern Tutchone
+Canada,Yukon,Oneida,0,Northern Tutchone
+Canada,Yukon,Kutenai,0,Northern Tutchone
+Canada,Yukon,Michif,0,Northern Tutchone
+Canada,Yukon,Comox,0,Northern Tutchone
+Canada,Yukon,Halkomelem,5,Northern Tutchone
+Canada,Yukon,Lillooet,0,Northern Tutchone
+Canada,Yukon,Okanagan,0,Northern Tutchone
+Canada,Yukon,Shuswap (Secwepemctsin),5,Northern Tutchone
+Canada,Yukon,Squamish,0,Northern Tutchone
+Canada,Yukon,Straits,0,Northern Tutchone
+Canada,Yukon,Thompson (Ntlakapamux),0,Northern Tutchone
+Canada,Yukon,Dakota,0,Northern Tutchone
+Canada,Yukon,Stoney,5,Northern Tutchone
+Canada,Yukon,Tlingit,80,Northern Tutchone
+Canada,Yukon,Gitxsan (Gitksan),5,Northern Tutchone
+Canada,Yukon,Nisga'a,0,Northern Tutchone
+Canada,Yukon,Tsimshian,0,Northern Tutchone
+Canada,Yukon,Haisla,0,Northern Tutchone
+Canada,Yukon,Heiltsuk,0,Northern Tutchone
+Canada,Yukon,Kwakiutl (Kwak'wala),0,Northern Tutchone
+Canada,Yukon,Nuu-chah-nulth (Nootka),0,Northern Tutchone
+Canada,Northwest Territories,Blackfoot,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Atikamekw,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Montagnais (Innu),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Moose Cree,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Naskapi,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Northern East Cree,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Plains Cree,5,Dogrib (Tlicho)
+Canada,Northwest Territories,Southern East Cree,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Swampy Cree,5,Dogrib (Tlicho)
+Canada,Northwest Territories,Woods Cree,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Cree,135,Dogrib (Tlicho)
+Canada,Northwest Territories,Malecite,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Mi'kmaq,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Algonquin,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Ojibway,15,Dogrib (Tlicho)
+Canada,Northwest Territories,Oji-Cree,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Ottawa (Odawa),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Babine (Wetsuwet'en),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Beaver,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Carrier,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Chilcotin,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Dene,470,Dogrib (Tlicho)
+Canada,Northwest Territories,Dogrib (Tlicho),1675,Dogrib (Tlicho)
+Canada,Northwest Territories,Gwich'in,155,Dogrib (Tlicho)
+Canada,Northwest Territories,Sarsi (Sarcee),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Sekani,0,Dogrib (Tlicho)
+Canada,Northwest Territories,North Slavey (Hare),790,Dogrib (Tlicho)
+Canada,Northwest Territories,South Slavey,815,Dogrib (Tlicho)
+Canada,Northwest Territories,Slavey,185,Dogrib (Tlicho)
+Canada,Northwest Territories,Kaska (Nahani),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Tahltan,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Northern Tutchone,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Southern Tutchone,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Haida,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Inuinnaqtun,100,Dogrib (Tlicho)
+Canada,Northwest Territories,Inuktitut,125,Dogrib (Tlicho)
+Canada,Northwest Territories,Inuvialuktun,420,Dogrib (Tlicho)
+Canada,Northwest Territories,Cayuga,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Mohawk,5,Dogrib (Tlicho)
+Canada,Northwest Territories,Oneida,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Kutenai,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Michif,15,Dogrib (Tlicho)
+Canada,Northwest Territories,Comox,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Halkomelem,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Lillooet,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Okanagan,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Shuswap (Secwepemctsin),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Squamish,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Straits,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Thompson (Ntlakapamux),5,Dogrib (Tlicho)
+Canada,Northwest Territories,Dakota,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Stoney,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Tlingit,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Gitxsan (Gitksan),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Nisga'a,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Tsimshian,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Haisla,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Heiltsuk,0,Dogrib (Tlicho)
+Canada,Northwest Territories,Kwakiutl (Kwak'wala),0,Dogrib (Tlicho)
+Canada,Northwest Territories,Nuu-chah-nulth (Nootka),0,Dogrib (Tlicho)
+Canada,Nunavut,Blackfoot,0,Inuktitut
+Canada,Nunavut,Atikamekw,0,Inuktitut
+Canada,Nunavut,Montagnais (Innu),0,Inuktitut
+Canada,Nunavut,Moose Cree,0,Inuktitut
+Canada,Nunavut,Naskapi,0,Inuktitut
+Canada,Nunavut,Northern East Cree,0,Inuktitut
+Canada,Nunavut,Plains Cree,0,Inuktitut
+Canada,Nunavut,Southern East Cree,0,Inuktitut
+Canada,Nunavut,Swampy Cree,0,Inuktitut
+Canada,Nunavut,Woods Cree,0,Inuktitut
+Canada,Nunavut,Cree,5,Inuktitut
+Canada,Nunavut,Malecite,0,Inuktitut
+Canada,Nunavut,Mi'kmaq,5,Inuktitut
+Canada,Nunavut,Algonquin,0,Inuktitut
+Canada,Nunavut,Ojibway,0,Inuktitut
+Canada,Nunavut,Oji-Cree,0,Inuktitut
+Canada,Nunavut,Ottawa (Odawa),0,Inuktitut
+Canada,Nunavut,Babine (Wetsuwet'en),0,Inuktitut
+Canada,Nunavut,Beaver,0,Inuktitut
+Canada,Nunavut,Carrier,0,Inuktitut
+Canada,Nunavut,Chilcotin,0,Inuktitut
+Canada,Nunavut,Dene,0,Inuktitut
+Canada,Nunavut,Dogrib (Tlicho),0,Inuktitut
+Canada,Nunavut,Gwich'in,0,Inuktitut
+Canada,Nunavut,Sarsi (Sarcee),0,Inuktitut
+Canada,Nunavut,Sekani,0,Inuktitut
+Canada,Nunavut,North Slavey (Hare),0,Inuktitut
+Canada,Nunavut,South Slavey,0,Inuktitut
+Canada,Nunavut,Slavey,0,Inuktitut
+Canada,Nunavut,Kaska (Nahani),0,Inuktitut
+Canada,Nunavut,Tahltan,0,Inuktitut
+Canada,Nunavut,Northern Tutchone,0,Inuktitut
+Canada,Nunavut,Southern Tutchone,0,Inuktitut
+Canada,Nunavut,Haida,0,Inuktitut
+Canada,Nunavut,Inuinnaqtun,550,Inuktitut
+Canada,Nunavut,Inuktitut,22670,Inuktitut
+Canada,Nunavut,Inuvialuktun,10,Inuktitut
+Canada,Nunavut,Cayuga,0,Inuktitut
+Canada,Nunavut,Mohawk,0,Inuktitut
+Canada,Nunavut,Oneida,0,Inuktitut
+Canada,Nunavut,Kutenai,0,Inuktitut
+Canada,Nunavut,Michif,0,Inuktitut
+Canada,Nunavut,Comox,0,Inuktitut
+Canada,Nunavut,Halkomelem,0,Inuktitut
+Canada,Nunavut,Lillooet,0,Inuktitut
+Canada,Nunavut,Okanagan,0,Inuktitut
+Canada,Nunavut,Shuswap (Secwepemctsin),0,Inuktitut
+Canada,Nunavut,Squamish,0,Inuktitut
+Canada,Nunavut,Straits,0,Inuktitut
+Canada,Nunavut,Thompson (Ntlakapamux),0,Inuktitut
+Canada,Nunavut,Dakota,0,Inuktitut
+Canada,Nunavut,Stoney,0,Inuktitut
+Canada,Nunavut,Tlingit,0,Inuktitut
+Canada,Nunavut,Gitxsan (Gitksan),0,Inuktitut
+Canada,Nunavut,Nisga'a,0,Inuktitut
+Canada,Nunavut,Tsimshian,0,Inuktitut
+Canada,Nunavut,Haisla,0,Inuktitut
+Canada,Nunavut,Heiltsuk,0,Inuktitut
+Canada,Nunavut,Kwakiutl (Kwak'wala),0,Inuktitut
+Canada,Nunavut,Nuu-chah-nulth (Nootka),0,Inuktitut
