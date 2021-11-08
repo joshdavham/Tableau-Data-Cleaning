@@ -1,6 +1,7 @@
 [Link](https://public.tableau.com/app/profile/joshdavham/viz/SentenceMiningbytheNumbers/Dashboard1) to the resulting dashboard.
 
 [Data](https://www.amazon.ca/-/fr/J-K-Rowling-ebook/dp/B0192CTN72) from Harry Potter 1-7 by J.K. Rowling.
+[Frequency List](http://www.lexique.org/shiny/openlexicon) from Lexique.org.
 
 - The **Harry Potter** directory contains data related to the simulation.
 - `functions.py` consists of helper functions used in the simulation.
